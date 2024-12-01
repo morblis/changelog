@@ -3,4 +3,4 @@
 Just a quicky they say.
 
 #### morbs.lol/changelog
-- Completely Changed Changelog Entry Logic (AGAIN) / Everytime a new log was created it started going left. LITERALLY
+- Completely Changed Changelog Entry Logic (AGAIN) / Everytime a new log was created it started going left. **LITERALLY**
